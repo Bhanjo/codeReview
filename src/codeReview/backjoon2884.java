@@ -1,3 +1,5 @@
+// ¹®Á¦ ¸®ºä : https://blog.naver.com/hanjo1515/221806091254
+
 package codeReview;
 
 import java.util.Scanner;
