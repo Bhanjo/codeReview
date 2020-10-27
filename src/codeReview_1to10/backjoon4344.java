@@ -1,4 +1,4 @@
-package codeReview;
+package codeReview_1to10;
 
 import java.util.Scanner;
 

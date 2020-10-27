@@ -1,6 +1,6 @@
 // ¹®Á¦ ¸®ºä : https://blog.naver.com/hanjo1515/221806091254
 
-package codeReview;
+package codeReview_1to10;
 
 import java.util.Scanner;
 
