@@ -5,6 +5,7 @@ import java.util.*;
 public class review34 {
 	
 	static boolean checkPalin(int i) {
+		//펠린드롬 판별_1
 		String palinNum = Integer.toString(i);
 		int palinNumSize = palinNum.length();
 		for(int j = 0; j < palinNumSize/2; j++) {
@@ -18,6 +19,7 @@ public class review34 {
 			return false;
 		}
 		
+		//펠린드롬 판별_2
 		int palinNum2 = (int)square;
 		String square2 = Integer.toString(palinNum2);
 		int square2Size = square2.length();
